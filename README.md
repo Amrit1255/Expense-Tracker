@@ -5,12 +5,12 @@ This is a type of  a webpage in which you can add your Expence of daily basis an
 
 ## Running Locally
 
-**1. Clone Repo**
+**1. Clone Repo** 
 
 ```bash
 https://github.com/Amrit1255/Language-Translator-.git
 ```
 
-## Contact
+## Contact 
 
 If you have any questions, feel free to reach out to me on [Instagram](https://www.instagram.com/mr_amrit_t/).
