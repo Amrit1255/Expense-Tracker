@@ -8,7 +8,7 @@ This is a type of  a webpage in which you can add your Expence of daily basis an
 **1. Clone Repo** 
 
 ```bash
-https://github.com/Amrit1255/Language-Translator-.git
+https://github.com/Amrit1255/Expense-Tracker.git
 ```
 
 ## Contact 
